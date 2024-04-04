@@ -1,0 +1,2 @@
+# TicketMachine
+Repositório de erros
